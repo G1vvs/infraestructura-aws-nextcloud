@@ -35,7 +35,7 @@ Se diseñó y desplegó una infraestructura cloud real que centralizó las opera
 
 **3. Autenticación Integrada**
 *Interfaz de acceso seguro al sistema.*
-![Login Nextcloud](./assets/image_5a318c.jpg)
+<img width="1280" height="610" alt="1781311165254" src="https://github.com/user-attachments/assets/d5e23a31-d73d-4baa-879b-e001ab3d1f1e" />
 
 **4. Interfaz de Usuario Final**
 *Dashboard operativo de la plataforma desplegada.*
@@ -43,3 +43,5 @@ Se diseñó y desplegó una infraestructura cloud real que centralizó las opera
 
 ## 💡 Aprendizajes Clave
 Más allá del stack tecnológico, el mayor valor de este proyecto fue la ejecución práctica: verificar la comunicación entre instancias, configurar el almacenamiento en S3 y validar la autenticación en red. Fue un primer paso concreto en infraestructura cloud, demostrando la capacidad de proponer una solución a un problema real y desplegarla con éxito.
+
+

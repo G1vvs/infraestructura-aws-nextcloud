@@ -27,11 +27,12 @@ Se diseñó y desplegó una infraestructura cloud real que centralizó las opera
 
 **1. Infraestructura de Cómputo (AWS EC2)**
 *Panel de administración mostrando las instancias de Nextcloud, OpenLDAP, Nginx y Redis en ejecución.*
-![Instancias EC2](./assets/image_5a31c6.jpg)
+<img width="1280" height="613" alt="1781311164726" src="https://github.com/user-attachments/assets/a47949f2-ce65-4fae-9f52-b395d1689ee9" />
 
 **2. Almacenamiento Centralizado (AWS S3)**
 *Configuración del bucket para el respaldo seguro de la documentación.*
-![Bucket S3](./assets/image_5a31ac.png)
+<img width="1280" height="580" alt="1781311164728" src="https://github.com/user-attachments/assets/d160669d-e0a8-441f-b9b4-57cb2b4c5a8d" />
+
 
 **3. Autenticación Integrada**
 *Interfaz de acceso seguro al sistema.*
@@ -39,9 +40,11 @@ Se diseñó y desplegó una infraestructura cloud real que centralizó las opera
 
 **4. Interfaz de Usuario Final**
 *Dashboard operativo de la plataforma desplegada.*
-![Dashboard Nextcloud](./assets/image_5a31a6.jpg)
+<img width="1280" height="613" alt="1781311165322" src="https://github.com/user-attachments/assets/28b4d94b-1599-421d-80a6-fb51d3b3dfee" />
 
 ## 💡 Aprendizajes Clave
 Más allá del stack tecnológico, el mayor valor de este proyecto fue la ejecución práctica: verificar la comunicación entre instancias, configurar el almacenamiento en S3 y validar la autenticación en red. Fue un primer paso concreto en infraestructura cloud, demostrando la capacidad de proponer una solución a un problema real y desplegarla con éxito.
+
+
 
 

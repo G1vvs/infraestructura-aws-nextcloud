@@ -27,12 +27,11 @@ Se diseñó y desplegó una infraestructura cloud real que centralizó las opera
 
 **1. Infraestructura de Cómputo (AWS EC2)**
 *Panel de administración mostrando las instancias de Nextcloud, OpenLDAP, Nginx y Redis en ejecución.*
-<img width="1280" height="613" alt="1781311164726" src="https://github.com/user-attachments/assets/a47949f2-ce65-4fae-9f52-b395d1689ee9" />
+<img width="1280" height="580" alt="1781311164728" src="https://github.com/user-attachments/assets/d160669d-e0a8-441f-b9b4-57cb2b4c5a8d" />
 
 **2. Almacenamiento Centralizado (AWS S3)**
 *Configuración del bucket para el respaldo seguro de la documentación.*
-<img width="1280" height="580" alt="1781311164728" src="https://github.com/user-attachments/assets/d160669d-e0a8-441f-b9b4-57cb2b4c5a8d" />
-
+<img width="1280" height="613" alt="1781311164726" src="https://github.com/user-attachments/assets/a47949f2-ce65-4fae-9f52-b395d1689ee9" />
 
 **3. Autenticación Integrada**
 *Interfaz de acceso seguro al sistema.*
